@@ -1,3 +1,0 @@
-These tests must be run from the package parent directory so that
-Python has a knowledge of the package substructure:
-> python floatingse/test/mytest_PyU.py

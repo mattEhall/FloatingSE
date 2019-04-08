@@ -1,8 +1,0 @@
-- Move to NEMOH/Capytaine for hydrodynamics
-- Tension arms from API 2V
-- Add horizontal cylinder/floaters
-- Gravity anchors
-- DLC inputs as vector
-- Allow for change in materials- concrete (pre/post tensioned), carbon fiber, different steel alloys
-- Move to more complicated cost model from paper that counts welds
-- Move to FUSED python only version
